@@ -43,7 +43,7 @@ Tools         VSCode · Vim · Tmux
 
 ## 联系我
 
-- 🏠 GitHub: [@Alex-莉莉](https://github.com/Alex-莉莉)
+- 🏠 GitHub: [@Alex-莉莉](https://github.com/Alex-LILY)
 - 👤 管理者: kade
 
 ---
